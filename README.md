@@ -14,3 +14,6 @@ You can use this console application to download/update (to) the latest (stable)
 2. Latest build will be automatically downloaded, extracted to directory `Debotnet` and started.
 3. After finishing, an `update.txt` file is created with current date
 4. Next time you run `DebotnetUpdater.exe`it will check whether the date has changed. If it's already been downloaded for the day, it launches Debotnet without downloading again.
+
+<details><summary><b>Download</b></summary>
+https://github.com/mirinsoft/DebotnetUpdater/releases/download/0.1/DebotnetUpdater.zip
