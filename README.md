@@ -1,5 +1,5 @@
 # DebotnetUpdater
-Get the latest build of Debotnet once a day
+Tiny tool to download latest version of Debotnet or just to update to latest build
 
 <a href="https://github.com/mirinsoft/DebotnetUpdater/releases" target="_blank">
  <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/mirinsoft/DebotnetUpdater/total.svg?style=flat-square" />
