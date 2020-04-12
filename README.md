@@ -6,7 +6,7 @@ Tiny tool to download latest version of Debotnet or just to update to latest bui
 </a>
 
 # Usage 
-You can use this console application to download/update (to) the latest (stable) release of Debotnet.
+Get the latest build of Debotnet (check is performed once a day)
 
 <details><summary><b>Show instructions</b></summary>
 
